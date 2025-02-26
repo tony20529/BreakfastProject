@@ -69,3 +69,5 @@ str
 ```
 ## 流程圖
 ![流程圖](%E5%9C%96%E7%89%87%2BPPT/19.png)
+## 報告
+[PPT下載](https://github.com/tony20529/BreakfastProject/raw/refs/heads/main/%E5%9C%96%E7%89%87+PPT/%E8%B6%85%E7%B4%9A%E5%9F%8E%E5%A0%A1.pptx)
