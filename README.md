@@ -15,7 +15,7 @@
 2. 確認電腦環境已安裝Java 11與MySQL，開啟MySQL程式，將MySQL匯入SQL資料夾的
 3. 執行BreakfastProject.jar檔就可以開始操作了
 
-##程式結構
+## 程式結構
 
 ```
 str
